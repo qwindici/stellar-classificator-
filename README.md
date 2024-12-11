@@ -1,1 +1,1 @@
-# stellar-classificator-
+# stellar classificator
